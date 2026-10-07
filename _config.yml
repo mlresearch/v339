@@ -3,7 +3,7 @@ booktitle: Proceedings of the Impactful and Responsible AI Systems for Education
 shortname: IRAISE
 year: '2026'
 volume: '339'
-start: &1 2026-06-28
+start: 2026-06-28
 end: 2026-06-28
 published: 2026-08-10
 conference_number: '3'
@@ -91,7 +91,7 @@ conference:
   url: https://iraise2026.org
   location: COEX Convention and Exhibition Center, Seoul, South Korea
   dates:
-  - *1
+  - 2026-06-28
 analytics:
   google:
     tracking_id: UA-92432422-1
